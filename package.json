@@ -1,0 +1,24 @@
+{
+  "name": "nest_and_next-todo",
+  "version": "1.0.0",
+  "description": "nest.jsとnext.jsを組み合わせたかったんや・・・",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kanemototomoki/nest_and_next-todo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kanemototomoki/nest_and_next-todo/issues"
+  },
+  "homepage": "https://github.com/kanemototomoki/nest_and_next-todo#readme",
+  "devDependencies": {
+    "@nestjs/cli": "^7.5.1",
+    "create-next-app": "^10.0.0"
+  }
+}
