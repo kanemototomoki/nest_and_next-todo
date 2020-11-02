@@ -11,16 +11,29 @@ export default function Home() {
 
       <main className={styles.main}>
 
+        <h1>ここにタイトル</h1>
         <p className={styles.description}>
-          Get started by editing{' '}
-          <code className={styles.code}>pages/index.js</code>
+          <code className={styles.code}>サブタイ</code>
         </p>
 
-        <div className={styles.grid}>
-
-
-
-        </div>
+        <ul className={styles.grid}>
+          <li className={styles.card}>
+            <h2>タイトル</h2>
+            <p>テキスト</p>
+          </li>
+          <li className={styles.card}>
+            <h2>タイトル</h2>
+            <p>テキスト</p>
+          </li>
+          <li className={styles.card}>
+            <h2>タイトル</h2>
+            <p>テキスト</p>
+          </li>
+          <li className={styles.card}>
+            <h2>タイトル</h2>
+            <p>テキスト</p>
+          </li>
+        </ul>
       </main>
 
       <footer className={styles.footer}>
