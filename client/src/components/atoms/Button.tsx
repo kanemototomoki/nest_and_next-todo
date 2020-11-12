@@ -4,8 +4,8 @@ interface props {
 
 export default function Button({ text }: props) {
   return (
-    <button>
+    <a href="#">
       { text }
-    </button>
+    </a>
   )
 };

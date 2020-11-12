@@ -1,5 +1,7 @@
 ## エイリアスを追加したい
 
+https://github.com/vercel/next.js/issues/10929
+
 ### 1. ルートディレクトリにnext.config.jsを作成
 ```js
 // next.config.js
